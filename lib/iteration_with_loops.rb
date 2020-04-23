@@ -12,6 +12,6 @@ def find_even_values(src)
         end
         inner_i += 1
       end
-      i += 1
+      outer_i += 1
     end
 end
